@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Abdelnabi Anis</h1>
+<h3 align="center">CS student | Digital Egypt Pioneers (Cohort 3) | Aspiring Full Stack .NET Developer</h3>
 
-<!--
-**mohamed-abdelnabi-anis/mohamed-abdelnabi-anis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 I'm a CS student and part of the *3rd cohort of the Digital Egypt Pioneers program*.  
+🚀 I'm constantly learning and exploring new technologies to improve my skills.  
+💻 Currently focused on learning *Full Stack .NET development*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Learning
+- C#
+- HTML/CSS
+- JavaScript
+- SQL Server
+- ASP.NET Core
+- Git & GitHub
+- Visual Studio
+
+---
+
+### ⚡ Fun Fact
+I love football and my favorite team is *Zamalek* ⚽❤
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+<!-- Replace 'YourUsername' with your actual GitHub username -->
