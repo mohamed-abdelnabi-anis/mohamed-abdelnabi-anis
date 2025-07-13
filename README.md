@@ -25,12 +25,3 @@ I love football and my favorite team is *Zamalek* ⚽❤
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
-
-<!-- Replace 'YourUsername' with your actual GitHub username -->
